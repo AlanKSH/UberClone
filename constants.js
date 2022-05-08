@@ -1,8 +1,8 @@
 export const AUTHENTICATION_SERVER_PORT = 5000;
 export const CHAT_SERVER_NEW = false;
-export const CHAT_SERVER_PORT = 4000;
+export const CHAT_SERVER_PORT = 5000;
 export const MAP_SERVER_NEW = false;
-export const MAP_SERVER_PORT = 4001;
+export const MAP_SERVER_PORT = 5000;
 
 export const AUTHENTICATION_SERVER = "http://localhost:5000";
 export const CHAT_SERVER = "http://localhost:5000";
